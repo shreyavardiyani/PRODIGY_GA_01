@@ -47,5 +47,5 @@ Fine-tune GPT-2 on a domain-specific dataset to generate coherent and contextual
 **Generated Text:**
 
 > By 2045, TinyML-powered microcontrollers will bring intelligent decision-making to everyday devices. Wearable sensors, smart home systems, and industrial equipment will process data locally, reducing reliance on cloud computing while improving privacy, efficiency, and real-time performance.
-![Sample Output](assets/sample_output.png)
+![Sample_Output](assets/sample_output.png)
   
