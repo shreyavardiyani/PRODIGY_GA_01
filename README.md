@@ -1,5 +1,5 @@
-## Text Generation with GPT-2
-## Task 01 - Generative AI Internship @ Prodigy InfoTech
+### Text Generation with GPT-2
+# Task 01 - Generative AI Internship @ Prodigy InfoTech
 ## TinyML Writer: Exploring the Future of Edge AI on Microcontrollers
 ## Project Overview
 
