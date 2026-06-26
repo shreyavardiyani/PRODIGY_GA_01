@@ -35,4 +35,13 @@ Fine-tune GPT-2 on a domain-specific dataset to generate coherent and contextual
 - Successfully fine-tuned GPT-2 on a custom TinyML dataset.
 - Training loss decreased from **4.32** to **0.56** over **10 epochs**.
 - Generated coherent, future-oriented text related to TinyML and Edge AI.
+## Sample Output
+
+**Prompt:**
+
+> By 2045, TinyML-powered microcontrollers will
+
+**Generated Text:**
+
+> By 2045, TinyML-powered microcontrollers will bring intelligent decision-making to everyday devices. Wearable sensors, smart home systems, and industrial equipment will process data locally, reducing reliance on cloud computing while improving privacy, efficiency, and real-time performance.
   
