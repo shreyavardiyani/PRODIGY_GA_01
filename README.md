@@ -1,6 +1,7 @@
-### Text Generation with GPT-2
-# Task 01 - Generative AI Internship @ Prodigy InfoTech
-## TinyML Writer: Exploring the Future of Edge AI on Microcontrollers
+# Text Generation with GPT-2
+## Task 01 - Generative AI Internship @ Prodigy InfoTech
+### TinyML Writer: Exploring the Future of Edge AI on Microcontrollers
+
 ## Project Overview
 
 TinyML Writer is a Generative AI project that fine-tunes OpenAI's GPT-2 model to generate future-oriented content about TinyML, Edge AI, and intelligent microcontrollers.
