@@ -1,7 +1,7 @@
 ## TinyML Writer: Exploring the Future of Edge AI on Microcontrollers
 
--Prodigy InfoTech – Generative AI Internship
--Task: 01
+- Prodigy InfoTech – Generative AI Internship
+- Task: 01
 ## Project Overview
 
 TinyML Writer is a Generative AI project that fine-tunes OpenAI's GPT-2 model to generate future-oriented content about TinyML, Edge AI, and intelligent microcontrollers.
@@ -30,4 +30,9 @@ Fine-tune GPT-2 on a domain-specific dataset to generate coherent and contextual
 4. Fine-tuned GPT-2 using Hugging Face Transformers.
 5. Generated future-focused text from custom prompts.
 6. Evaluated the generated outputs.
+## Results
+
+- Successfully fine-tuned GPT-2 on a custom TinyML dataset.
+- Training loss decreased from **4.32** to **0.56** over **10 epochs**.
+- Generated coherent, future-oriented text related to TinyML and Edge AI.
   
